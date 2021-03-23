@@ -3,4 +3,4 @@ This repository contains PyTorch evaluation code, training code and pretrained m
 Like FPN, DSIC can be easily plugged in most detection models with neck.
 ![Image text](https://github.com/aakunkun/DSIC/blob/main/.github/dsic.png)
 
-# Code will be released soon.
+Code will be released soon.
